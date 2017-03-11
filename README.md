@@ -18,3 +18,9 @@ cd /root/probeLocations/exe
 wmake
 ./probeLocations
 ```
+
+## How to run sample
+```
+cd /root/probeLocations/data/cavity
+../../exe/probeLocations -latestTime
+```
